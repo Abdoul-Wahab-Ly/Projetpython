@@ -1,0 +1,24 @@
+{
+    "221": {
+        "capital": "Dakar",
+        "independance": "04/04/1960",
+        "langue": "Francais",
+        "location": "Afrique",
+        "name": "Senegal",
+        "pib": "700",
+        "population": "16000000",
+        "president": "Macky Sall",
+        "superficie": "196792"
+    },
+    "225": {
+        "capital": "Abidjan",
+        "independance": "04/12/1958",
+        "langue": "Français",
+        "location": "Afrique",
+        "name": "côte d'ivoire",
+        "pib": "58000000000",
+        "population": "25000000",
+        "president": "Alassane Dramane Ouatara",
+        "superficie": "322462,00 km2"
+    }
+}
